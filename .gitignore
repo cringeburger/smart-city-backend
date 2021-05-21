@@ -1,0 +1,7 @@
+env
+generated_qr
+resources/modules/config.py
+resources/modules/__pycache__
+resources/__pycache__
+resources/routes/__pycache__
+.vscode
