@@ -41,5 +41,3 @@ def send(reciever_name, mail_domen, subject, msg_text, file_name=None):
 		server.sendmail(email_val, reciever_mail, message.as_string())
 
 	return 'success'
-
-# print(send('vbcfgfgf@mail.ru', 'kek!', 'Важное сообщение', './code.png'))

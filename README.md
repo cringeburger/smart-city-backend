@@ -25,6 +25,11 @@ $ pip install requirements.txt
 email_val = 'email'
 password = 'password'
 host_val = 'localhost'
+db_login = 'database_login'
+db_pass = 'database_password'
+db_host = 'database_host'
+db_name = 'database_name'
+
 ```
 
 Запуск 
