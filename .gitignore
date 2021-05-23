@@ -1,7 +1,8 @@
 env
-generated_qr
+resources/generated_qr
 resources/modules/config.py
 resources/modules/__pycache__
 resources/__pycache__
 resources/routes/__pycache__
+resources/db_queries/__pycache__
 .vscode
